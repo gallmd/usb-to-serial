@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name usb-to-serial-rescue)(type Legacy)(uri "${KIPRJMOD}/usb to serial-rescue.lib")(options "")(descr ""))
+)

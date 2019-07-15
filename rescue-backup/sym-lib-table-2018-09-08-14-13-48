@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name usb-to-serial-rescue)(type Legacy)(uri "${KIPRJMOD}/usb to serial-rescue.lib")(options "")(descr ""))
+  (lib (name ftdi)(type Legacy)(uri ${KISYS3DMOD}/library/ftdi.lib)(options "")(descr ""))
+)

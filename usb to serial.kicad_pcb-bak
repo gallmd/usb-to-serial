@@ -1,4 +1,4 @@
-(kicad_pcb (version 4) (host pcbnew 4.0.6-e0-6349~52~ubuntu17.04.1)
+(kicad_pcb (version 4) (host pcbnew 4.0.7-e2-6376~60~ubuntu17.10.1)
 
   (general
     (links 71)
@@ -922,7 +922,7 @@
     (model ${KISYS3DMOD}/Pin_Headers.3dshapes/Pin_Header_Straight_1x04_Pitch2.54mm.wrl
       (at (xyz 0 0 0))
       (scale (xyz 1 1 1))
-      (rotate (xyz 0 0 270))
+      (rotate (xyz 0 0 0))
     )
   )
 
